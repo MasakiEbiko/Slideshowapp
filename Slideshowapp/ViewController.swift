@@ -77,7 +77,9 @@ class ViewController: UIViewController {
     }
     */
     @objc func upScaling(){
-        sildeStartandStop(nil)
+        if timer != nil {
+            sildeStartandStop(nil)
+        }
         performSegue(withIdentifier: "upscaling", sender: nil)
     }
     
