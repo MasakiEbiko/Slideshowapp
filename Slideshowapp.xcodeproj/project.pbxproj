@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		103111F82CAF9FDD0044C37A /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103111F72CAF9FDD0044C37A /* ScaleViewController.swift */; };
 		10DDEE822CAE634200303C07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DDEE812CAE634200303C07 /* AppDelegate.swift */; };
 		10DDEE842CAE634200303C07 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DDEE832CAE634200303C07 /* SceneDelegate.swift */; };
 		10DDEE862CAE634200303C07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DDEE852CAE634200303C07 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		103111F72CAF9FDD0044C37A /* ScaleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
 		10DDEE7E2CAE634200303C07 /* Slideshowapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Slideshowapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DDEE812CAE634200303C07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10DDEE832CAE634200303C07 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				10DDEE812CAE634200303C07 /* AppDelegate.swift */,
 				10DDEE832CAE634200303C07 /* SceneDelegate.swift */,
 				10DDEE852CAE634200303C07 /* ViewController.swift */,
+				103111F72CAF9FDD0044C37A /* ScaleViewController.swift */,
 				10DDEE872CAE634200303C07 /* Main.storyboard */,
 				10DDEE8A2CAE634300303C07 /* Assets.xcassets */,
 				10DDEE8C2CAE634300303C07 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				10DDEE862CAE634200303C07 /* ViewController.swift in Sources */,
 				10DDEE822CAE634200303C07 /* AppDelegate.swift in Sources */,
 				10DDEE842CAE634200303C07 /* SceneDelegate.swift in Sources */,
+				103111F82CAF9FDD0044C37A /* ScaleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
