@@ -16,9 +16,9 @@ class ViewController: UIViewController {
     var timer : Timer! = nil
     var index:Int = 0
     var images:[UIImage] = [
-        UIImage(named:"IMG_1")!,
-        UIImage(named:"IMG_2")!,
-        UIImage(named:"IMG_3")!,
+        UIImage(named:"IMG_1.jpg")!,
+        UIImage(named:"IMG_2.JPEG")!,
+        UIImage(named:"IMG_3.JPEG")!,
     ]
     
     override func viewDidLoad() {
